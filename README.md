@@ -1,1 +1,2 @@
-# php_project
+# My first php_project
+This is a basic php project with a login/register form with a db base using xaamp(sqli).The database structure where made in the myphpadmin and not in the code, everything else where made in the php code. Because is my first time doing a php project the css part is not even complete. I seperated the code in parts which is easier to understand and be more professionally.I could add more thinks like editing the login info , changing password and of course adding in css.     
